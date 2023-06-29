@@ -19,7 +19,7 @@ UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "none")
 
 
 bot = Client(
-    "Mis_Annuu_chatbot" ,
+    "╚»𝐓𝐃𝐍™«╝✘❰𝐀𝐑𝐌𝐘❱" ,
     api_id = API_ID,
     api_hash = API_HASH ,
     bot_token = BOT_TOKEN
